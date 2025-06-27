@@ -20746,17 +20746,6 @@
     "lastUpdated": "2025-06-27"
   },
   {
-    "keynote": "",
-    "comment": "",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "",
-    "category": "",
-    "lastUpdated": "2025-06-27"
-  },
-  {
     "keynote": "D",
     "comment": "หมวดงานระบบสุขาภิบาล",
     "unit": "",
@@ -22495,17 +22484,6 @@
     "lastUpdated": "2025-06-27"
   },
   {
-    "keynote": "",
-    "comment": "",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "",
-    "category": "",
-    "lastUpdated": "2025-06-27"
-  },
-  {
     "keynote": "E",
     "comment": "หมวดงานระบบปรับอากาศและระบายอากาศ",
     "unit": "",
@@ -22744,17 +22722,6 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "",
-    "lastUpdated": "2025-06-27"
-  },
-  {
-    "keynote": "",
-    "comment": "",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "",
     "category": "",
     "lastUpdated": "2025-06-27"
   },
