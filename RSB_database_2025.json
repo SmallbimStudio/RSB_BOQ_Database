@@ -36,7 +36,7 @@
     "keynote": "A1000.1",
     "comment": "งานขุดดินฐานราก",
     "unit": "m³",
-    "lossPercentage": 30,
+    "lossPercentage": 300,
     "materialUnitCost": 0,
     "labourUnitCost": 150,
     "parentKeynote": "A1000",
