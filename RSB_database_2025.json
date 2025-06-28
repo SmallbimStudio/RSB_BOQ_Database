@@ -20549,7 +20549,7 @@
   },
   {
     "keynote": "C1003.4",
-    "comment": "กล่องพักสาย ขนาด 4x4 นิ้ว",
+    "comment": "Conduit Junction Box (กล่องพักสาย) 4\"x4\"",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -20560,7 +20560,7 @@
   },
   {
     "keynote": "C1003.5",
-    "comment": "กล่องพักสาย ขนาด 2x4 นิ้ว",
+    "comment": "Conduit Junction Box (กล่องพักสาย) 2\"x4\"",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
