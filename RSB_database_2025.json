@@ -20351,29 +20351,106 @@
   },
   {
     "keynote": "C1000",
-    "comment": "ตู้เมนไฟฟ้า (MDB, DB)",
+    "comment": "ตู้ไฟฟ้า",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "C1",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1000.1",
+    "comment": "ตู้ MDB (Main Distribution Board)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1000",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1000.2",
+    "comment": "ตู้ DB (Distribution Board)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1000",
     "category": "",
     "lastUpdated": "2025-06-28"
   },
   {
     "keynote": "C1001",
-    "comment": "สายไฟแรงต่ำ (THW, NYY, VAF, XLPE)",
+    "comment": "สายไฟแรงต่ำ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "C1",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1001.1",
+    "comment": "สายไฟ THW (ทองแดง เดินในท่อ)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1001.2",
+    "comment": "สายไฟ IEC01 (สายเดี่ยวทองแดงหุ้ม PVC ใช้ภายใน)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1001.3",
+    "comment": "สายไฟ NYY (เดินฝังดิน/กลางแจ้ง)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1001.4",
+    "comment": "สายไฟ VAF (แบน ไม่มีท่อ)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1001.5",
+    "comment": "สายไฟ XLPE (ทนความร้อนสูง)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
     "category": "",
     "lastUpdated": "2025-06-28"
   },
   {
     "keynote": "C1002",
-    "comment": "ท่อร้อยสาย (PVC, EMT, IMC, HDPE)",
+    "comment": "ท่อร้อยสายไฟ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -20383,7 +20460,117 @@
     "lastUpdated": "2025-06-28"
   },
   {
+    "keynote": "C1002.1",
+    "comment": "ท่อ PVC (สำหรับงานทั่วไป)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1002",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1002.2",
+    "comment": "ท่อ EMT (ท่อโลหะบาง)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1002",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1002.3",
+    "comment": "ท่อ IMC (ท่อโลหะหนา)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1002",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1002.4",
+    "comment": "ท่อ HDPE (ท่อดำ ยืดหยุ่นสูง)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1002",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
     "keynote": "C1003",
+    "comment": "กล่องและข้อต่อท่อร้อยสายไฟ",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1003.1",
+    "comment": "Junction BOX PVC",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1003",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1003.2",
+    "comment": "Junction BOX โลหะ",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1003",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1003.3",
+    "comment": "กล่องแยกกลม (Round Box)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1003",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1003.4",
+    "comment": "กล่องพักสาย ขนาด 4x4 นิ้ว",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1003",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1003.5",
+    "comment": "กล่องพักสาย ขนาด 2x4 นิ้ว",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1003",
+    "category": "",
+    "lastUpdated": "2025-06-28"
+  },
+  {
+    "keynote": "C1004",
     "comment": "ตัวยึด/แคลมป์ร้อยสาย",
     "unit": "",
     "lossPercentage": "",
@@ -20394,7 +20581,7 @@
     "lastUpdated": "2025-06-28"
   },
   {
-    "keynote": "C1004",
+    "keynote": "C1005",
     "comment": "เบรกเกอร์ (MCB, MCCB, ELCB, RCBO)",
     "unit": "",
     "lossPercentage": "",
@@ -20405,7 +20592,7 @@
     "lastUpdated": "2025-06-28"
   },
   {
-    "keynote": "C1005",
+    "keynote": "C1006",
     "comment": "ปลั๊กไฟ (2 ขา, 3 ขา, มีกราวด์)",
     "unit": "",
     "lossPercentage": "",
@@ -20416,7 +20603,7 @@
     "lastUpdated": "2025-06-28"
   },
   {
-    "keynote": "C1006",
+    "keynote": "C1007",
     "comment": "เต้ารับสำหรับอุปกรณ์เฉพาะ (AC, เตาอบ, ฯลฯ)",
     "unit": "",
     "lossPercentage": "",
@@ -20427,7 +20614,7 @@
     "lastUpdated": "2025-06-28"
   },
   {
-    "keynote": "C1007",
+    "keynote": "C1008",
     "comment": "เครื่องกำเนิดไฟฟ้า / UPS",
     "unit": "",
     "lossPercentage": "",
@@ -20438,7 +20625,7 @@
     "lastUpdated": "2025-06-28"
   },
   {
-    "keynote": "C1008",
+    "keynote": "C1009",
     "comment": "ระบบสายดิน (Ground Rod, Ground Wire)",
     "unit": "",
     "lossPercentage": "",
