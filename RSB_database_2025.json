@@ -38,7 +38,7 @@
     "unit": "m³",
     "lossPercentage": 30,
     "materialUnitCost": 0,
-    "labourUnitCost": 180,
+    "labourUnitCost": 150,
     "parentKeynote": "A1000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -71,7 +71,7 @@
     "unit": "m³",
     "lossPercentage": 60,
     "materialUnitCost": 450,
-    "labourUnitCost": 60,
+    "labourUnitCost": 150,
     "parentKeynote": "A1000.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -92,8 +92,8 @@
     "comment": "ทรายหยาบรองก้นฐานราก (Coarse Sand Bedding)",
     "unit": "m³",
     "lossPercentage": 30,
-    "materialUnitCost": 580,
-    "labourUnitCost": 120,
+    "materialUnitCost": 600,
+    "labourUnitCost": 250,
     "parentKeynote": "A1001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -103,8 +103,8 @@
     "comment": "ทรายหยาบรองก้นฐานราก - บดอัดด้วยแรงงานคน",
     "unit": "m³",
     "lossPercentage": 30,
-    "materialUnitCost": 580,
-    "labourUnitCost": 120,
+    "materialUnitCost": 600,
+    "labourUnitCost": 250,
     "parentKeynote": "A1001.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -114,8 +114,8 @@
     "comment": "ทรายหยาบรองก้นฐานราก - บดอัดด้วยเครื่องจักร",
     "unit": "m³",
     "lossPercentage": 30,
-    "materialUnitCost": 580,
-    "labourUnitCost": 120,
+    "materialUnitCost": 600,
+    "labourUnitCost": 250,
     "parentKeynote": "A1001.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -125,8 +125,8 @@
     "comment": "คอนกรีตหยาบรองก้นฐานราก 1:3:5 (ประเภท 1) (Lean Concrete)",
     "unit": "m³",
     "lossPercentage": 10,
-    "materialUnitCost": 2150,
-    "labourUnitCost": 450,
+    "materialUnitCost": 2000,
+    "labourUnitCost": 500,
     "parentKeynote": "A1001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -379,7 +379,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 550,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -390,7 +390,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 600,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -401,7 +401,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 600,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -412,7 +412,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 650,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -423,7 +423,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 550,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -445,7 +445,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 2400,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000.6",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -456,7 +456,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 900,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -467,7 +467,7 @@
     "unit": "m³",
     "lossPercentage": 10,
     "materialUnitCost": 2300,
-    "labourUnitCost": 550,
+    "labourUnitCost": 500,
     "parentKeynote": "A3000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -499,8 +499,8 @@
     "comment": "ไม้แบบงานโครงสร้างฐานราก",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 180,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -510,8 +510,8 @@
     "comment": "ไม้แบบงานโครงสร้างเสาตอม่อ",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 220,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -521,8 +521,8 @@
     "comment": "ไม้แบบงานโครงสร้างเสา",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 220,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -532,8 +532,8 @@
     "comment": "ไม้แบบงานโครงสร้างคาน",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 250,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -543,8 +543,8 @@
     "comment": "ไม้แบบงานโครงสร้างพื้น",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 220,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -554,8 +554,8 @@
     "comment": "ไม้แบบงานโครงสร้างพื้นสำเร็จรูป",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 220,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -565,8 +565,8 @@
     "comment": "ไม้แบบงานโครงสร้างบันได",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 250,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -576,8 +576,8 @@
     "comment": "ไม้แบบงานโครงสร้างผนังคอนกรีตเสริมเหล็ก",
     "unit": "m²",
     "lossPercentage": 10,
-    "materialUnitCost": 380,
-    "labourUnitCost": 220,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
     "parentKeynote": "A4000",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -598,8 +598,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างฐานราก",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -609,8 +609,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างเสาตอม่อ",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -620,8 +620,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างเสา",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -631,8 +631,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างคาน",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -642,8 +642,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างพื้น",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -653,8 +653,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างพื้นสำเร็จรูป",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -664,8 +664,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างบันได",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -675,8 +675,8 @@
     "comment": "ไม้คร่าวยึดแบบงานโครงสร้างผนังคอนกรีตเสริมเหล็ก",
     "unit": "ลบ.ฟ.",
     "lossPercentage": 30,
-    "materialUnitCost": 30,
-    "labourUnitCost": 0,
+    "materialUnitCost": 100,
+    "labourUnitCost": 100,
     "parentKeynote": "A4001",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -695,9 +695,9 @@
   {
     "keynote": "A4002.1",
     "comment": "ตะปูยึดแบบงานโครงสร้างฐานราก",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -706,9 +706,9 @@
   {
     "keynote": "A4002.2",
     "comment": "ตะปูยึดแบบงานโครงสร้างเสาตอม่อ",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -717,9 +717,9 @@
   {
     "keynote": "A4002.3",
     "comment": "ตะปูยึดแบบงานโครงสร้างเสา",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -728,9 +728,9 @@
   {
     "keynote": "A4002.4",
     "comment": "ตะปูยึดแบบงานโครงสร้างคาน",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -739,9 +739,9 @@
   {
     "keynote": "A4002.5",
     "comment": "ตะปูยึดแบบงานโครงสร้างพื้น",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -750,9 +750,9 @@
   {
     "keynote": "A4002.6",
     "comment": "ตะปูยึดแบบงานโครงสร้างพื้นสำเร็จรูป",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -761,9 +761,9 @@
   {
     "keynote": "A4002.7",
     "comment": "ตะปูยึดแบบงานโครงสร้างบันได",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -772,9 +772,9 @@
   {
     "keynote": "A4002.8",
     "comment": "ตะปูยึดแบบงานโครงสร้างผนังคอนกรีตเสริมเหล็ก",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": 30,
-    "materialUnitCost": 45,
+    "materialUnitCost": 60,
     "labourUnitCost": 0,
     "parentKeynote": "A4002",
     "category": "Structural",
@@ -816,10 +816,10 @@
   {
     "keynote": "A5000.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5000.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -827,10 +827,10 @@
   {
     "keynote": "A5000.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5000.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -838,7 +838,7 @@
   {
     "keynote": "A5000.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -849,7 +849,7 @@
   {
     "keynote": "A5000.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -860,7 +860,7 @@
   {
     "keynote": "A5000.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -871,7 +871,7 @@
   {
     "keynote": "A5000.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -893,7 +893,7 @@
   {
     "keynote": "A5000.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -904,10 +904,10 @@
   {
     "keynote": "A5000.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5000.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -915,10 +915,10 @@
   {
     "keynote": "A5000.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5000.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -926,7 +926,7 @@
   {
     "keynote": "A5000.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -937,7 +937,7 @@
   {
     "keynote": "A5000.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -948,7 +948,7 @@
   {
     "keynote": "A5000.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -959,7 +959,7 @@
   {
     "keynote": "A5000.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -992,10 +992,10 @@
   {
     "keynote": "A5001.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5001.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1003,10 +1003,10 @@
   {
     "keynote": "A5001.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5001.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1014,7 +1014,7 @@
   {
     "keynote": "A5001.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1025,7 +1025,7 @@
   {
     "keynote": "A5001.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1036,7 +1036,7 @@
   {
     "keynote": "A5001.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1047,7 +1047,7 @@
   {
     "keynote": "A5001.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1069,7 +1069,7 @@
   {
     "keynote": "A5001.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1080,10 +1080,10 @@
   {
     "keynote": "A5001.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5001.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1091,10 +1091,10 @@
   {
     "keynote": "A5001.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5001.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1102,7 +1102,7 @@
   {
     "keynote": "A5001.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1113,7 +1113,7 @@
   {
     "keynote": "A5001.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1124,7 +1124,7 @@
   {
     "keynote": "A5001.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1135,7 +1135,7 @@
   {
     "keynote": "A5001.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1168,10 +1168,10 @@
   {
     "keynote": "A5002.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5002.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1179,10 +1179,10 @@
   {
     "keynote": "A5002.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5002.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1190,7 +1190,7 @@
   {
     "keynote": "A5002.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1201,7 +1201,7 @@
   {
     "keynote": "A5002.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1212,7 +1212,7 @@
   {
     "keynote": "A5002.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1223,7 +1223,7 @@
   {
     "keynote": "A5002.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1245,7 +1245,7 @@
   {
     "keynote": "A5002.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1256,10 +1256,10 @@
   {
     "keynote": "A5002.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5002.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1267,10 +1267,10 @@
   {
     "keynote": "A5002.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5002.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1278,7 +1278,7 @@
   {
     "keynote": "A5002.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1289,7 +1289,7 @@
   {
     "keynote": "A5002.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1300,7 +1300,7 @@
   {
     "keynote": "A5002.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1311,7 +1311,7 @@
   {
     "keynote": "A5002.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1344,10 +1344,10 @@
   {
     "keynote": "A5003.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5003.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1355,10 +1355,10 @@
   {
     "keynote": "A5003.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5003.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1366,7 +1366,7 @@
   {
     "keynote": "A5003.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1377,7 +1377,7 @@
   {
     "keynote": "A5003.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1388,7 +1388,7 @@
   {
     "keynote": "A5003.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1399,7 +1399,7 @@
   {
     "keynote": "A5003.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1421,7 +1421,7 @@
   {
     "keynote": "A5003.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1432,10 +1432,10 @@
   {
     "keynote": "A5003.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5003.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1443,10 +1443,10 @@
   {
     "keynote": "A5003.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5003.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1454,7 +1454,7 @@
   {
     "keynote": "A5003.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1465,7 +1465,7 @@
   {
     "keynote": "A5003.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1476,7 +1476,7 @@
   {
     "keynote": "A5003.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1487,7 +1487,7 @@
   {
     "keynote": "A5003.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1520,10 +1520,10 @@
   {
     "keynote": "A5004.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5004.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1531,10 +1531,10 @@
   {
     "keynote": "A5004.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5004.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1542,7 +1542,7 @@
   {
     "keynote": "A5004.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1553,7 +1553,7 @@
   {
     "keynote": "A5004.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1564,7 +1564,7 @@
   {
     "keynote": "A5004.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1575,7 +1575,7 @@
   {
     "keynote": "A5004.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1597,7 +1597,7 @@
   {
     "keynote": "A5004.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1608,10 +1608,10 @@
   {
     "keynote": "A5004.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5004.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1619,10 +1619,10 @@
   {
     "keynote": "A5004.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5004.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1630,7 +1630,7 @@
   {
     "keynote": "A5004.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1641,7 +1641,7 @@
   {
     "keynote": "A5004.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1652,7 +1652,7 @@
   {
     "keynote": "A5004.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1663,7 +1663,7 @@
   {
     "keynote": "A5004.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1696,10 +1696,10 @@
   {
     "keynote": "A5005.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5005.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1707,10 +1707,10 @@
   {
     "keynote": "A5005.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5005.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1718,7 +1718,7 @@
   {
     "keynote": "A5005.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1729,7 +1729,7 @@
   {
     "keynote": "A5005.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1740,7 +1740,7 @@
   {
     "keynote": "A5005.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1751,7 +1751,7 @@
   {
     "keynote": "A5005.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1773,7 +1773,7 @@
   {
     "keynote": "A5005.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1784,10 +1784,10 @@
   {
     "keynote": "A5005.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5005.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1795,10 +1795,10 @@
   {
     "keynote": "A5005.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5005.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1806,7 +1806,7 @@
   {
     "keynote": "A5005.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1817,7 +1817,7 @@
   {
     "keynote": "A5005.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1828,7 +1828,7 @@
   {
     "keynote": "A5005.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1839,7 +1839,7 @@
   {
     "keynote": "A5005.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1872,10 +1872,10 @@
   {
     "keynote": "A5006.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5006.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1883,10 +1883,10 @@
   {
     "keynote": "A5006.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5006.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1894,7 +1894,7 @@
   {
     "keynote": "A5006.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1905,7 +1905,7 @@
   {
     "keynote": "A5006.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1916,7 +1916,7 @@
   {
     "keynote": "A5006.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1927,7 +1927,7 @@
   {
     "keynote": "A5006.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1949,7 +1949,7 @@
   {
     "keynote": "A5006.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1960,10 +1960,10 @@
   {
     "keynote": "A5006.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5006.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1971,10 +1971,10 @@
   {
     "keynote": "A5006.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5006.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -1982,7 +1982,7 @@
   {
     "keynote": "A5006.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -1993,7 +1993,7 @@
   {
     "keynote": "A5006.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2004,7 +2004,7 @@
   {
     "keynote": "A5006.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2015,7 +2015,7 @@
   {
     "keynote": "A5006.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2048,10 +2048,10 @@
   {
     "keynote": "A5007.1.1",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 6 มม. (2.22 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5007.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2059,10 +2059,10 @@
   {
     "keynote": "A5007.1.2",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 9 มม. (4.99 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 9,
+    "materialUnitCost": 32,
+    "labourUnitCost": 10,
     "parentKeynote": "A5007.1",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2070,7 +2070,7 @@
   {
     "keynote": "A5007.1.3",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2081,7 +2081,7 @@
   {
     "keynote": "A5007.1.4",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 15 มม. (13.87 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2092,7 +2092,7 @@
   {
     "keynote": "A5007.1.5",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 19 มม. (22.26 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2103,7 +2103,7 @@
   {
     "keynote": "A5007.1.6",
     "comment": "เหล็กเส้นกลมผิวเรียบ SR.24 ขนาด RB 25 มม. (38.53 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2125,7 +2125,7 @@
   {
     "keynote": "A5007.2.1",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 10 มม. (6.16 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2136,10 +2136,10 @@
   {
     "keynote": "A5007.2.2",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 12 มม. (8.88 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 12,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5007.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2147,10 +2147,10 @@
   {
     "keynote": "A5007.2.3",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 16 มม. (15.80 กก./เส้น)",
-    "unit": "กก.",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 15,
+    "materialUnitCost": 35,
+    "labourUnitCost": 10,
     "parentKeynote": "A5007.2",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2158,7 +2158,7 @@
   {
     "keynote": "A5007.2.4",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 20 มม. (24.70 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2169,7 +2169,7 @@
   {
     "keynote": "A5007.2.5",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 25 มม. (39.50 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2180,7 +2180,7 @@
   {
     "keynote": "A5007.2.6",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 28 มม. (48.30 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2191,7 +2191,7 @@
   {
     "keynote": "A5007.2.7",
     "comment": "เหล็กเส้นกลมผิวข้ออ้อย SD.30 ขนาด DB 32 มม. (63.13 กก./เส้น)",
-    "unit": "กก.",
+    "unit": "kg.",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
@@ -2213,10 +2213,10 @@
   {
     "keynote": "A5008.1",
     "comment": "ลวดผูกเหล็กงานโครงสร้างฐานราก",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2224,10 +2224,10 @@
   {
     "keynote": "A5008.2",
     "comment": "ลวดผูกเหล็กงานโครงสร้างเสาตอม่อ",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2235,10 +2235,10 @@
   {
     "keynote": "A5008.3",
     "comment": "ลวดผูกเหล็กงานโครงสร้างเสา",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2246,10 +2246,10 @@
   {
     "keynote": "A5008.4",
     "comment": "ลวดผูกเหล็กงานโครงสร้างคาน",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2257,10 +2257,10 @@
   {
     "keynote": "A5008.5",
     "comment": "ลวดผูกเหล็กงานโครงสร้างพื้น",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2268,10 +2268,10 @@
   {
     "keynote": "A5008.6",
     "comment": "ลวดผูกเหล็กงานโครงสร้างพื้นสำเร็จรูป",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2279,10 +2279,10 @@
   {
     "keynote": "A5008.7",
     "comment": "ลวดผูกเหล็กงานโครงสร้างบันได",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2290,10 +2290,10 @@
   {
     "keynote": "A5008.8",
     "comment": "ลวดผูกเหล็กงานโครงสร้างผนังคอนกรีตเสริมเหล็ก",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "kg.",
+    "lossPercentage": 0,
+    "materialUnitCost": 45,
+    "labourUnitCost": 0,
     "parentKeynote": "A5008",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2312,10 +2312,10 @@
   {
     "keynote": "A5009.1",
     "comment": "ตะแกรงเหล็กสำเร็จรูป Wire Mesh 4.0 มม. ขนาดตาราง 0.20 x 0.20 ม.",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "m²",
+    "lossPercentage": 10,
+    "materialUnitCost": 40,
+    "labourUnitCost": 10,
     "parentKeynote": "A5009",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
@@ -2323,10 +2323,10 @@
   {
     "keynote": "A5009.2",
     "comment": "ตะแกรงเหล็กสำเร็จรูป Wire Mesh 4.0 มม. ขนาดตาราง 0.25 x 0.25 ม.",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "m²",
+    "lossPercentage": 10,
+    "materialUnitCost": 40,
+    "labourUnitCost": 10,
     "parentKeynote": "A5009",
     "category": "Structural",
     "lastUpdated": "2025-07-04"
