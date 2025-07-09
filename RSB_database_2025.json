@@ -14485,7 +14485,7 @@
   },
   {
     "keynote": "B",
-    "comment": "งานสถาปัตยกรรม",
+    "comment": "หมวดงานสถาปัตยกรรม",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -20028,7 +20028,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7002.1",
+    "keynote": "B7003.1",
     "comment": "ทาสีลูกตั้ง-ลูกนอน",
     "unit": "",
     "lossPercentage": "",
@@ -20040,7 +20040,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7002.2",
+    "keynote": "B7003.2",
     "comment": "เคลือบไม้ (Wood Stain / Lacquer)",
     "unit": "",
     "lossPercentage": "",
@@ -20052,7 +20052,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7002.3",
+    "keynote": "B7003.3",
     "comment": "เคลือบปูนใส / ปูนเปลือย",
     "unit": "",
     "lossPercentage": "",
@@ -20064,7 +20064,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7002.4",
+    "keynote": "B7003.4",
     "comment": "เคลือบกันลื่น",
     "unit": "",
     "lossPercentage": "",
@@ -20076,7 +20076,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7002.5",
+    "keynote": "B7003.5",
     "comment": "ทา Epoxy พื้นบันได",
     "unit": "",
     "lossPercentage": "",
@@ -20100,7 +20100,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7003.1",
+    "keynote": "B7004.1",
     "comment": "ไฟ LED ใต้ขั้นบันได",
     "unit": "",
     "lossPercentage": "",
@@ -20112,7 +20112,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7003.2",
+    "keynote": "B7004.2",
     "comment": "ลูกนอนลอย (Cantilever Tread)",
     "unit": "",
     "lossPercentage": "",
@@ -20124,7 +20124,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7003.3",
+    "keynote": "B7004.3",
     "comment": "ผิวบันไดลายพิเศษ",
     "unit": "",
     "lossPercentage": "",
@@ -20136,7 +20136,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7003.4",
+    "keynote": "B7004.4",
     "comment": "ราวกันตกตกแต่ง",
     "unit": "",
     "lossPercentage": "",
@@ -20148,7 +20148,7 @@
     "lastUpdated": "2025-07-09"
   },
   {
-    "keynote": "B7003.5",
+    "keynote": "B7004.5",
     "comment": "ฝ้าปิดใต้บันได",
     "unit": "",
     "lossPercentage": "",
