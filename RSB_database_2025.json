@@ -21734,7 +21734,7 @@
   {
     "keynote": "B9001",
     "comment": "งานติดตั้งฉากกั้นห้อง (ผนังเบายิปซัม 2 ด้าน โครงกัลวาไนซ์)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 8,
     "materialUnitCost": 550,
     "labourUnitCost": 250,
@@ -21746,7 +21746,7 @@
   {
     "keynote": "B9002",
     "comment": "งานติดตั้งม่าน (ผ้ามาตรฐานพร้อมราง)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 10,
     "materialUnitCost": 600,
     "labourUnitCost": 150,
@@ -21758,7 +21758,7 @@
   {
     "keynote": "B9003",
     "comment": "งานติดตั้งมู่ลี่ (อลูมิเนียม)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 8,
     "materialUnitCost": 700,
     "labourUnitCost": 180,
@@ -21770,7 +21770,7 @@
   {
     "keynote": "B9004",
     "comment": "งานปูพรม (พรมอัด)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 5,
     "materialUnitCost": 250,
     "labourUnitCost": 100,
@@ -21794,7 +21794,7 @@
   {
     "keynote": "B9006",
     "comment": "งานติดตั้งเฟอร์นิเจอร์บิลท์อิน (ตู้สูง, ไม้ MDF ปิดผิวลามิเนต)",
-    "unit": "เมตร",
+    "unit": "m",
     "lossPercentage": 10,
     "materialUnitCost": 8000,
     "labourUnitCost": 3000,
@@ -21818,7 +21818,7 @@
   {
     "keynote": "B9008",
     "comment": "งานปูพื้นยางกันลื่น / ยางปูทางเดิน",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 5,
     "materialUnitCost": 450,
     "labourUnitCost": 120,
@@ -21830,7 +21830,7 @@
   {
     "keynote": "B9009",
     "comment": "งานติดตั้งอุปกรณ์กันชน (ยางกันกระแทกผนัง)",
-    "unit": "เมตร",
+    "unit": "m",
     "lossPercentage": 5,
     "materialUnitCost": 250,
     "labourUnitCost": 80,
@@ -21866,7 +21866,7 @@
   {
     "keynote": "B9012",
     "comment": "งานติดตั้งกระจกเงา / กระจกเงาตัดแสง (หนา 5 มม. เจียรริม)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 8,
     "materialUnitCost": 900,
     "labourUnitCost": 350,
@@ -21878,7 +21878,7 @@
   {
     "keynote": "B9013",
     "comment": "งานเคลือบพื้นพิเศษ (PU / Epoxy เคลือบมัน)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 5,
     "materialUnitCost": 550,
     "labourUnitCost": 250,
@@ -21902,7 +21902,7 @@
   {
     "keynote": "B9015",
     "comment": "งานติดตั้งกันนก (แบบหนาม)",
-    "unit": "เมตร",
+    "unit": "m",
     "lossPercentage": 5,
     "materialUnitCost": 150,
     "labourUnitCost": 80,
@@ -21914,7 +21914,7 @@
   {
     "keynote": "B9016",
     "comment": "งานติดตั้งบัวเชิงผนัง / ซ่อนไฟ (บัว PVC 4 นิ้ว)",
-    "unit": "เมตร",
+    "unit": "m",
     "lossPercentage": 5,
     "materialUnitCost": 80,
     "labourUnitCost": 50,
@@ -21926,7 +21926,7 @@
   {
     "keynote": "B9017",
     "comment": "งานติดตั้งตะแกรงกันแมลง / มุ้งลวด (บานหน้าต่างอลูมิเนียม)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 5,
     "materialUnitCost": 500,
     "labourUnitCost": 200,
@@ -21938,7 +21938,7 @@
   {
     "keynote": "B9018",
     "comment": "งานตกแต่งฟาซาด / แผงบังแดด (ระแนงอลูมิเนียม)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 8,
     "materialUnitCost": 2800,
     "labourUnitCost": 1200,
@@ -21950,7 +21950,7 @@
   {
     "keynote": "B9019",
     "comment": "งานโครงหลังคา/กันสาดเล็ก (เมทัลชีท)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 5,
     "materialUnitCost": 800,
     "labourUnitCost": 400,
@@ -21974,7 +21974,7 @@
   {
     "keynote": "B9021",
     "comment": "งานเก็บความเรียบร้อย / จบงาน (ทำความสะอาดก่อนส่งมอบ)",
-    "unit": "ตร.ม.",
+    "unit": "m²",
     "lossPercentage": 0,
     "materialUnitCost": 0,
     "labourUnitCost": 30,
@@ -22015,13 +22015,13 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "C",
-    "category": "q",
+    "category": "Electrical",
     "level": 2,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1000",
-    "comment": "ตู้ไฟฟ้า",
+    "comment": "ตู้ไฟฟ้า (Electrical Panels)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22033,11 +22033,11 @@
   },
   {
     "keynote": "C1000.1",
-    "comment": "ตู้ MDB (Main Distribution Board)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "comment": "ตู้ MDB (Main Distribution Board) - ขนาดเล็ก (บ้านพักอาศัย)",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 15000,
+    "labourUnitCost": 5000,
     "parentKeynote": "C1000",
     "category": "Electrical",
     "level": 4,
@@ -22045,11 +22045,83 @@
   },
   {
     "keynote": "C1000.2",
-    "comment": "ตู้ DB (Distribution Board)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "comment": "ตู้ MDB (Main Distribution Board) - อาคารพาณิชย์ขนาดเล็ก",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 45000,
+    "labourUnitCost": 12000,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.3",
+    "comment": "ตู้ DB (Distribution Board) / Load Center - 12 ช่อง",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 2500,
+    "labourUnitCost": 1500,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.4",
+    "comment": "ตู้ DB (Distribution Board) / Load Center - 18 ช่อง",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 3200,
+    "labourUnitCost": 1800,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.5",
+    "comment": "ตู้ DB (Distribution Board) / Load Center - 24 ช่อง",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 4000,
+    "labourUnitCost": 2200,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.6",
+    "comment": "ตู้ Consumer Unit - 6 ช่อง (พร้อมเมน+ลูกย่อย)",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 1800,
+    "labourUnitCost": 800,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.7",
+    "comment": "ตู้ Consumer Unit - 10 ช่อง (พร้อมเมน+ลูกย่อย)",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 2500,
+    "labourUnitCost": 1200,
+    "parentKeynote": "C1000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1000.8",
+    "comment": "ตู้ Consumer Unit - 14 ช่อง (พร้อมเมน+ลูกย่อย)",
+    "unit": "ชุด",
+    "lossPercentage": 5,
+    "materialUnitCost": 3200,
+    "labourUnitCost": 1500,
     "parentKeynote": "C1000",
     "category": "Electrical",
     "level": 4,
@@ -22057,7 +22129,7 @@
   },
   {
     "keynote": "C1001",
-    "comment": "สายไฟแรงต่ำ",
+    "comment": "สายไฟแรงต่ำ (Low Voltage Cables)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22069,7 +22141,7 @@
   },
   {
     "keynote": "C1001.1",
-    "comment": "สายไฟ THW (ทองแดง เดินในท่อ)",
+    "comment": "สายไฟ THW",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22077,11 +22149,71 @@
     "parentKeynote": "C1001",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.1.1",
+    "comment": "สายไฟ THW-A 1x16 (อลูมิเนียม)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 25,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1001.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.1.2",
+    "comment": "สายไฟ THW 1x2.5 (ทองแดง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 18,
+    "labourUnitCost": 10,
+    "parentKeynote": "C1001.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.1.3",
+    "comment": "สายไฟ THW 1x4 (ทองแดง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 28,
+    "labourUnitCost": 12,
+    "parentKeynote": "C1001.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.1.4",
+    "comment": "สายไฟ THW 1x6 (ทองแดง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 42,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1001.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.1.5",
+    "comment": "สายไฟ THW 1x10 (ทองแดง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 65,
+    "labourUnitCost": 18,
+    "parentKeynote": "C1001.1",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1001.2",
-    "comment": "สายไฟ IEC01 (สายเดี่ยวทองแดงหุ้ม PVC ใช้ภายใน)",
+    "comment": "สายไฟ IEC",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22089,11 +22221,23 @@
     "parentKeynote": "C1001",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.2.1",
+    "comment": "สายไฟ IEC01 (เทียบเท่า THW) 1x2.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 18,
+    "labourUnitCost": 10,
+    "parentKeynote": "C1001.2",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1001.3",
-    "comment": "สายไฟ NYY (เดินฝังดิน/กลางแจ้ง)",
+    "comment": "สายไฟ VAF",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22101,11 +22245,35 @@
     "parentKeynote": "C1001",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.3.1",
+    "comment": "สายไฟ VAF 2x1.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 15,
+    "labourUnitCost": 8,
+    "parentKeynote": "C1001.3",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.3.2",
+    "comment": "สายไฟ VAF 2x2.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 22,
+    "labourUnitCost": 8,
+    "parentKeynote": "C1001.3",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1001.4",
-    "comment": "สายไฟ VAF (แบน ไม่มีท่อ)",
+    "comment": "สายไฟ NYY",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22113,11 +22281,35 @@
     "parentKeynote": "C1001",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.4.1",
+    "comment": "สายไฟ NYY 2x2.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 45,
+    "labourUnitCost": 20,
+    "parentKeynote": "C1001.4",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.4.2",
+    "comment": "สายไฟ NYY 4x16 (สำหรับมิเตอร์)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 250,
+    "labourUnitCost": 40,
+    "parentKeynote": "C1001.4",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1001.5",
-    "comment": "สายไฟ XLPE (ทนความร้อนสูง)",
+    "comment": "สายไฟ VCT",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22128,8 +22320,92 @@
     "lastUpdated": "2025-07-10"
   },
   {
+    "keynote": "C1001.5.1",
+    "comment": "สายไฟ VCT 2x2.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 40,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1001.5",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.5.2",
+    "comment": "สายไฟ VCT 3x2.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 60,
+    "labourUnitCost": 18,
+    "parentKeynote": "C1001.5",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.5.3",
+    "comment": "สายไฟ VCT 4x4",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 120,
+    "labourUnitCost": 25,
+    "parentKeynote": "C1001.5",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.6",
+    "comment": "สายไฟ XLPE/CV",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.6.1",
+    "comment": "สายไฟ XLPE/CV 1x50",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 180,
+    "labourUnitCost": 30,
+    "parentKeynote": "C1001.6",
+    "category": "Electrical",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.7",
+    "comment": "สายควบคุม VSF",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1001.7.1",
+    "comment": "สายควบคุม VSF 1x1.5",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 10,
+    "labourUnitCost": 8,
+    "parentKeynote": "C1001.7",
+    "category": "Electrical",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
     "keynote": "C1002",
-    "comment": "ท่อร้อยสายไฟ",
+    "comment": "ท่อร้อยสายไฟ (Conduits)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22141,7 +22417,7 @@
   },
   {
     "keynote": "C1002.1",
-    "comment": "ท่อ PVC (สำหรับงานทั่วไป)",
+    "comment": "ท่อ PVC",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22149,11 +22425,59 @@
     "parentKeynote": "C1002",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.1.1",
+    "comment": "ท่อ PVC สีเหลือง 1/2\" (15มม.)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 8,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.1.2",
+    "comment": "ท่อ PVC สีเหลือง 3/4\" (20มม.)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 12,
+    "labourUnitCost": 18,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.1.3",
+    "comment": "ท่อ PVC สีขาว 1/2\" (15มม.)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 12,
+    "labourUnitCost": 18,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.1.4",
+    "comment": "ท่อ PVC สีขาว 3/4\" (20มม.)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 18,
+    "labourUnitCost": 22,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1002.2",
-    "comment": "ท่อ EMT (ท่อโลหะบาง)",
+    "comment": "ท่อ EMT",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22161,11 +22485,35 @@
     "parentKeynote": "C1002",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.2.1",
+    "comment": "ท่อ EMT 1/2\" (ท่อโลหะบาง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 25,
+    "labourUnitCost": 30,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.2.2",
+    "comment": "ท่อ EMT 3/4\" (ท่อโลหะบาง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 35,
+    "labourUnitCost": 35,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1002.3",
-    "comment": "ท่อ IMC (ท่อโลหะหนา)",
+    "comment": "ท่อ IMC",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22173,11 +22521,35 @@
     "parentKeynote": "C1002",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.3.1",
+    "comment": "ท่อ IMC 1/2\" (ท่อโลหะหนาปานกลาง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 45,
+    "labourUnitCost": 35,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.3.2",
+    "comment": "ท่อ IMC 3/4\" (ท่อโลหะหนาปานกลาง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 60,
+    "labourUnitCost": 40,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1002.4",
-    "comment": "ท่อ HDPE (ท่อดำ ยืดหยุ่นสูง)",
+    "comment": "ท่อ HDPE",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22188,8 +22560,44 @@
     "lastUpdated": "2025-07-10"
   },
   {
+    "keynote": "C1002.4.1",
+    "comment": "ท่อ HDPE (ท่อลูกฟูกดำ) 1/2\"",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 15,
+    "labourUnitCost": 20,
+    "parentKeynote": "C1002.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.5",
+    "comment": "ท่ออ่อนเหล็ก",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C1002",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1002.5.1",
+    "comment": "ท่ออ่อนเหล็ก (Flexible Metal Conduit) 1/2\"",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 30,
+    "labourUnitCost": 25,
+    "parentKeynote": "C1002.5",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
     "keynote": "C1003",
-    "comment": "กล่องและข้อต่อท่อร้อยสายไฟ",
+    "comment": "รางและกล่องพักสาย (Trunking & Boxes)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22201,7 +22609,7 @@
   },
   {
     "keynote": "C1003.1",
-    "comment": "Junction BOX PVC",
+    "comment": "รางเดินสายไฟ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22209,11 +22617,35 @@
     "parentKeynote": "C1003",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.1.1",
+    "comment": "รางเดินสายไฟ PVC (Wireway) 25x25มม.",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 40,
+    "labourUnitCost": 30,
+    "parentKeynote": "C1003.1",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1003.2",
-    "comment": "Junction BOX โลหะ",
+    "comment": "รางเคเบิลเทรย์ (Cable Tray) W200mm",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 350,
+    "labourUnitCost": 150,
+    "parentKeynote": "C1003.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.2",
+    "comment": "กล่องพักสายไฟ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22221,11 +22653,59 @@
     "parentKeynote": "C1003",
     "category": "Electrical",
     "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.2.1",
+    "comment": "Junction BOX PVC 4\"x4\"",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 25,
+    "labourUnitCost": 50,
+    "parentKeynote": "C1003.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.2.2",
+    "comment": "Junction BOX โลหะ 4\"x4\"",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 50,
+    "labourUnitCost": 60,
+    "parentKeynote": "C1003.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.2.3",
+    "comment": "กล่องพักสายกลม (Round Box)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 15,
+    "labourUnitCost": 40,
+    "parentKeynote": "C1003.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.2.4",
+    "comment": "กล่องสวิตช์/ปลั๊ก 2\"x4\"",
+    "unit": "ชิ้น",
+    "lossPercentage": 0,
+    "materialUnitCost": 10,
+    "labourUnitCost": 30,
+    "parentKeynote": "C1003.2",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1003.3",
-    "comment": "กล่องแยกกลม (Round Box)",
+    "comment": "อุปกรณ์เดินท่อสายไฟ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22236,32 +22716,44 @@
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1003.4",
-    "comment": "Conduit Junction Box (กล่องพักสาย) 4\"x4\"",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C1003",
+    "keynote": "C1003.3.1",
+    "comment": "ตัวยึด/แคลมป์ร้อยสาย (C-Clamp)",
+    "unit": "ชิ้น",
+    "lossPercentage": 0,
+    "materialUnitCost": 5,
+    "labourUnitCost": 10,
+    "parentKeynote": "C1003.3",
     "category": "Electrical",
-    "level": 4,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1003.5",
-    "comment": "Conduit Junction Box (กล่องพักสาย) 2\"x4\"",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C1003",
+    "keynote": "C1003.3.2",
+    "comment": "ข้อต่อท่อ EMT/IMC เข้ากล่อง (Connector)",
+    "unit": "ชิ้น",
+    "lossPercentage": 0,
+    "materialUnitCost": 10,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1003.3",
     "category": "Electrical",
-    "level": 4,
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1003.3.3",
+    "comment": "ข้อต่อท่ออ่อน (Flexible Conduit Connector)",
+    "unit": "ชิ้น",
+    "lossPercentage": 0,
+    "materialUnitCost": 15,
+    "labourUnitCost": 20,
+    "parentKeynote": "C1003.3",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C1004",
-    "comment": "ตัวยึด/แคลมป์ร้อยสาย",
+    "comment": "อุปกรณ์ป้องกันและควบคุม (Protection & Control)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22272,63 +22764,231 @@
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1005",
-    "comment": "เบรกเกอร์ (MCB, MCCB, ELCB, RCBO)",
+    "keynote": "C1004.1",
+    "comment": "เบรกเกอร์",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C1",
+    "parentKeynote": "C1004",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1006",
-    "comment": "ปลั๊กไฟ (2 ขา, 3 ขา, มีกราวด์)",
+    "keynote": "C1004.1.1",
+    "comment": "เบรกเกอร์ MCB (ลูกย่อย) 1P, 16A",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 120,
+    "labourUnitCost": 100,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.1.2",
+    "comment": "เบรกเกอร์ MCB (ลูกย่อย) 1P, 20A",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 130,
+    "labourUnitCost": 100,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.1.3",
+    "comment": "เบรกเกอร์ MCB (ลูกย่อย) 1P, 32A",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 150,
+    "labourUnitCost": 100,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.1.4",
+    "comment": "เบรกเกอร์ MCCB (เมน) 2P, 100A",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1800,
+    "labourUnitCost": 500,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.1.5",
+    "comment": "เบรกเกอร์กันดูด ELCB/RCBO 2P, 50A",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 900,
+    "labourUnitCost": 250,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.1.6",
+    "comment": "อุปกรณ์ป้องกันไฟกระชาก (Surge Protection Device)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 2500,
+    "labourUnitCost": 600,
+    "parentKeynote": "C1004.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.2",
+    "comment": "เต้ารับไฟฟ้า",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C1",
+    "parentKeynote": "C1004",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1007",
-    "comment": "เต้ารับสำหรับอุปกรณ์เฉพาะ (AC, เตาอบ, ฯลฯ)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C1",
+    "keynote": "C1004.2.1",
+    "comment": "เต้ารับไฟฟ้า (ปลั๊ก) 2 ขา",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 80,
+    "labourUnitCost": 120,
+    "parentKeynote": "C1004.2",
     "category": "Electrical",
-    "level": 3,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1008",
+    "keynote": "C1004.2.2",
+    "comment": "เต้ารับไฟฟ้า (ปลั๊ก) 3 ขา มีกราวด์",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 120,
+    "labourUnitCost": 150,
+    "parentKeynote": "C1004.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.2.3",
+    "comment": "เต้ารับไฟฟ้ากันน้ำ (Weatherproof Outlet)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 350,
+    "labourUnitCost": 220,
+    "parentKeynote": "C1004.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.2.4",
+    "comment": "เต้ารับ USB",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 280,
+    "labourUnitCost": 180,
+    "parentKeynote": "C1004.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.2.5",
+    "comment": "เต้ารับสำหรับอุปกรณ์เฉพาะ (AC, เตาอบ)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 250,
+    "labourUnitCost": 200,
+    "parentKeynote": "C1004.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.3",
     "comment": "เครื่องกำเนิดไฟฟ้า / UPS",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C1",
+    "parentKeynote": "C1004",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C1009",
-    "comment": "ระบบสายดิน (Ground Rod, Ground Wire)",
+    "keynote": "C1004.3.1",
+    "comment": "เครื่องกำเนิดไฟฟ้า (Generator) 5kW",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 35000,
+    "labourUnitCost": 5000,
+    "parentKeynote": "C1004.3",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.3.2",
+    "comment": "เครื่องสำรองไฟ (UPS) 1000VA",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 3000,
+    "labourUnitCost": 500,
+    "parentKeynote": "C1004.3",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.4",
+    "comment": "ระบบสายดิน (Grounding System)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C1",
+    "parentKeynote": "C1004",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.4.1",
+    "comment": "แท่งกราวด์ (Ground Rod) 1.8 ม. พร้อมแคลมป์",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 450,
+    "labourUnitCost": 500,
+    "parentKeynote": "C1004.4",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C1004.4.2",
+    "comment": "สายดิน (Ground Wire) G/THW 1x10",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 50,
+    "labourUnitCost": 15,
+    "parentKeynote": "C1004.4",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
@@ -22345,7 +23005,7 @@
   },
   {
     "keynote": "C2000",
-    "comment": "หลอดไฟ (LED Bulb, Tube, Downlight)",
+    "comment": "หลอดไฟและโคมไฟ (Lamps & Luminaires)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22353,11 +23013,179 @@
     "parentKeynote": "C2",
     "category": "Electrical",
     "level": 3,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.1",
+    "comment": "หลอดไฟ",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C2000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.1.1",
+    "comment": "หลอดไฟ LED Bulb 9W",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 80,
+    "labourUnitCost": 100,
+    "parentKeynote": "C2000.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.1.2",
+    "comment": "หลอดไฟ LED Tube T8 18W (พร้อมราง)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 250,
+    "labourUnitCost": 150,
+    "parentKeynote": "C2000.1",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2",
+    "comment": "โคมไฟ",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "C2000",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.1",
+    "comment": "โคมไฟดาวน์ไลท์ LED 4\" 9W (สำเร็จรูป)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 350,
+    "labourUnitCost": 180,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.2",
+    "comment": "โคมไฟติดฝ้า / เพดาน (โคมซาลาเปา LED)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 450,
+    "labourUnitCost": 200,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.3",
+    "comment": "โคมไฟ Panel Light LED 60x60cm",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 900,
+    "labourUnitCost": 350,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.4",
+    "comment": "โคมไฟ Track Light LED 10W (พร้อมราง 1 ม.)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1200,
+    "labourUnitCost": 400,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.5",
+    "comment": "โคมไฟ High Bay LED 100W",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 2500,
+    "labourUnitCost": 800,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.6",
+    "comment": "โคมไฟสนาม / ส่องเฉพาะจุด (Spotlight LED 20W)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 600,
+    "labourUnitCost": 250,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.7",
+    "comment": "โคมไฟภายนอกกันน้ำ (IP65+)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 500,
+    "labourUnitCost": 220,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.8",
+    "comment": "โคมไฟ Emergency / Exit Light",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1200,
+    "labourUnitCost": 300,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.9",
+    "comment": "โคมไฟตกแต่ง (Pendant, Wall Sconce) - ค่าแรงติดตั้ง",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 0,
+    "labourUnitCost": 350,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.10",
+    "comment": "ไฟเส้น LED Strip (พร้อมหม้อแปลง)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 250,
+    "labourUnitCost": 150,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C2001",
-    "comment": "โคมไฟติดฝ้า / ผนัง / เพดาน / แขวน",
+    "comment": "อุปกรณ์ควบคุมและสวิตช์ (Controls & Switches)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22368,80 +23196,128 @@
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2002",
-    "comment": "โคมไฟสนาม / ส่องเฉพาะจุด",
+    "keynote": "C2000.1",
+    "comment": "สวิตช์ไฟ",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "parentKeynote": "C2001",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2003",
-    "comment": "โคมไฟภายนอกกันน้ำ (IP65+)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "keynote": "C2000.1.1",
+    "comment": "สวิตช์ไฟ 1 ทาง",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 90,
+    "labourUnitCost": 120,
+    "parentKeynote": "C2000.1",
     "category": "Electrical",
-    "level": 3,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2004",
-    "comment": "โคมไฟ Emergency / Exit Light",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "keynote": "C2000.1.2",
+    "comment": "สวิตช์ไฟ 2 ทาง",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 120,
+    "labourUnitCost": 150,
+    "parentKeynote": "C2000.1",
     "category": "Electrical",
-    "level": 3,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2005",
-    "comment": "โคมไฟตกแต่ง (Pendant, Wall Sconce ฯลฯ)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "keynote": "C2000.1.3",
+    "comment": "สวิตช์ไฟ 3 ทาง (บันได)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 250,
+    "labourUnitCost": 200,
+    "parentKeynote": "C2000.1",
     "category": "Electrical",
-    "level": 3,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2006",
-    "comment": "อุปกรณ์ควบคุมแสง (Dimmer, Sensor, Motion)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "keynote": "C2000.1.4",
+    "comment": "สวิตช์สัมผัส (Touch Switch)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 450,
+    "labourUnitCost": 250,
+    "parentKeynote": "C2000.1",
     "category": "Electrical",
-    "level": 3,
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C2007",
-    "comment": "สวิตช์ไฟ / เต้ารับ (1 ทาง, 3 ทาง, Touch Switch)",
+    "keynote": "C2000.2",
+    "comment": "อุปกรณ์ควบคุม",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
-    "parentKeynote": "C2",
+    "parentKeynote": "C2001",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.1",
+    "comment": "อุปกรณ์ควบคุมแสง (Dimmer)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 350,
+    "labourUnitCost": 200,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.2",
+    "comment": "เซ็นเซอร์จับความเคลื่อนไหว (Motion Sensor)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 600,
+    "labourUnitCost": 300,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.3",
+    "comment": "สวิตช์กระดิ่ง (Bell Switch)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 150,
+    "labourUnitCost": 150,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C2000.2.4",
+    "comment": "สวิตช์โรงแรม, คีย์การ์ด (Keycard Switch)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 900,
+    "labourUnitCost": 400,
+    "parentKeynote": "C2000.2",
+    "category": "Electrical",
+    "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C3",
-    "comment": "งานกล้องวงจรปิด (CCTV System)",
+    "comment": "งานระบบสื่อสาร (Communication System)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22453,7 +23329,7 @@
   },
   {
     "keynote": "C3001",
-    "comment": "กล้องวงจรปิด (CCTV Camera) – Analog / IP",
+    "comment": "งานกล้องวงจรปิด (CCTV System)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22461,11 +23337,143 @@
     "parentKeynote": "C3",
     "category": "Electrical",
     "level": 3,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.1",
+    "comment": "กล้องวงจรปิด IP Camera 2MP",
+    "unit": "ตัว",
+    "lossPercentage": 0,
+    "materialUnitCost": 1500,
+    "labourUnitCost": 500,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.2",
+    "comment": "กล้องโดม (Dome) / Bullet",
+    "unit": "ตัว",
+    "lossPercentage": 0,
+    "materialUnitCost": 1200,
+    "labourUnitCost": 500,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.3",
+    "comment": "กล้อง PTZ (หมุนได้)",
+    "unit": "ตัว",
+    "lossPercentage": 0,
+    "materialUnitCost": 4500,
+    "labourUnitCost": 800,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.4",
+    "comment": "เครื่องบันทึก (NVR) 8 ช่อง",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 3500,
+    "labourUnitCost": 1000,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.5",
+    "comment": "เครื่องบันทึก (NVR) 16 ช่อง",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 5500,
+    "labourUnitCost": 1500,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.6",
+    "comment": "ฮาร์ดดิสก์บันทึกภาพ 1TB (สำหรับ CCTV)",
+    "unit": "ลูก",
+    "lossPercentage": 0,
+    "materialUnitCost": 1800,
+    "labourUnitCost": 200,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.7",
+    "comment": "ฮาร์ดดิสก์บันทึกภาพ 4TB (สำหรับ CCTV)",
+    "unit": "ลูก",
+    "lossPercentage": 0,
+    "materialUnitCost": 3500,
+    "labourUnitCost": 200,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.8",
+    "comment": "สาย RG6+Power / UTP CAT6 สำหรับกล้อง",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 20,
+    "labourUnitCost": 15,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.9",
+    "comment": "ตู้ Rack / กล่องกันน้ำ / อุปกรณ์เสริม",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1500,
+    "labourUnitCost": 800,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.10",
+    "comment": "Power Supply สำหรับกล้อง (แบบรวม)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 800,
+    "labourUnitCost": 400,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "C3001.11",
+    "comment": "Junction Box / Bracket / Adapter",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 150,
+    "labourUnitCost": 100,
+    "parentKeynote": "C3001",
+    "category": "Electrical",
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "C3002",
-    "comment": "กล้องโดม / Bullet / PTZ",
+    "comment": "งานสัญญาณอินเทอร์เน็ต / โทรศัพท์ / ทีวี (Data/Tel/TV System)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22476,183 +23484,159 @@
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3003",
-    "comment": "เครื่องบันทึก (DVR / NVR)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.1",
+    "comment": "สาย LAN (CAT6)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 15,
+    "labourUnitCost": 15,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3004",
-    "comment": "ฮาร์ดดิสก์บันทึกภาพ",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.2",
+    "comment": "สาย LAN (CAT6A)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 25,
+    "labourUnitCost": 18,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3005",
-    "comment": "สาย RG6 / Cat5e / Cat6 สำหรับกล้อง",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.3",
+    "comment": "สาย Fiber Optic (Indoor, 2 Core)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 30,
+    "labourUnitCost": 25,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3006",
-    "comment": "ตู้ Rack / กล่องกันน้ำ / อุปกรณ์เสริม",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.4",
+    "comment": "สายโทรศัพท์ (2-core)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 8,
+    "labourUnitCost": 10,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3007",
-    "comment": "Power Supply สำหรับกล้อง",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.5",
+    "comment": "สายอากาศทีวี (Coaxial RG6)",
+    "unit": "m",
+    "lossPercentage": 5,
+    "materialUnitCost": 12,
+    "labourUnitCost": 12,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C3008",
-    "comment": "Junction Box / Bracket / Adapter",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C3",
+    "keynote": "C3002.6",
+    "comment": "Access Point / Wireless Router (มาตรฐาน)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1500,
+    "labourUnitCost": 500,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4",
-    "comment": "งานสัญญาณอินเทอร์เน็ต / โทรศัพท์ / ทีวี (Communication System)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C",
+    "keynote": "C3002.7",
+    "comment": "Switch Hub 8-Port (Gigabit)",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 800,
+    "labourUnitCost": 300,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 2,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4001",
-    "comment": "สาย LAN (CAT5e, CAT6, CAT6A, Fiber)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.8",
+    "comment": "Switch Hub 16-Port (Gigabit)",
+    "unit": "เครื่อง",
+    "lossPercentage": 0,
+    "materialUnitCost": 1800,
+    "labourUnitCost": 450,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4002",
-    "comment": "สายโทรศัพท์ / COAX / Fiber",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.9",
+    "comment": "เต้ารับ LAN / โทรศัพท์ / ทีวี (Outlet Plate)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 150,
+    "labourUnitCost": 150,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4003",
-    "comment": "Access Point / Wireless Router",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.10",
+    "comment": "Patch Panel 24-Port (CAT6)",
+    "unit": "ชุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 1500,
+    "labourUnitCost": 800,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4004",
-    "comment": "Switch Hub / Patch Panel",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.11",
+    "comment": "ชุดเชื่อมต่อโทรศัพท์ (PBX / Patch Cord) - ค่าติดตั้ง",
+    "unit": "จุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 0,
+    "labourUnitCost": 300,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4005",
-    "comment": "ปลั๊ก LAN / กล่องพักสาย / Outlet Plate",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.12",
+    "comment": "ระบบทีวีรวม MATV (สำหรับอพาร์ทเมนท์) - ค่าติดตั้ง",
+    "unit": "จุด",
+    "lossPercentage": 0,
+    "materialUnitCost": 0,
+    "labourUnitCost": 800,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "C4006",
-    "comment": "ชุดเชื่อมต่อโทรศัพท์ (PBX / Patch Cord)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
+    "keynote": "C3002.13",
+    "comment": "ตู้ Rack Network (9U)",
+    "unit": "ตู้",
+    "lossPercentage": 0,
+    "materialUnitCost": 4500,
+    "labourUnitCost": 2500,
+    "parentKeynote": "C3002",
     "category": "Electrical",
-    "level": 3,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "C4007",
-    "comment": "ระบบทีวีรวม MATV / IPTV",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
-    "category": "Electrical",
-    "level": 3,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "C4008",
-    "comment": "ตู้ Rack Network",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "C4",
-    "category": "Electrical",
-    "level": 3,
+    "level": 4,
     "lastUpdated": "2025-07-10"
   },
   {
@@ -22693,143 +23677,131 @@
   },
   {
     "keynote": "D1000.1",
-    "comment": "ท่อน้ำดี (CW) PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1000",
-    "category": "Sanitary",
-    "level": 4,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1000.1.1",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 12,
+    "labourUnitCost": 20,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.2",
+    "keynote": "D1000.2",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 18,
+    "labourUnitCost": 25,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.3",
+    "keynote": "D1000.3",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 28,
+    "labourUnitCost": 30,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.4",
+    "keynote": "D1000.4",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 1 1/4\" (35 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 45,
+    "labourUnitCost": 35,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.5",
+    "keynote": "D1000.5",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 1 1/2\" (40 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 55,
+    "labourUnitCost": 40,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.6",
+    "keynote": "D1000.6",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 2\" (55 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 85,
+    "labourUnitCost": 50,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.7",
+    "keynote": "D1000.7",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 2 1/2\" (65 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 130,
+    "labourUnitCost": 60,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.8",
+    "keynote": "D1000.8",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 3\" (80 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 200,
+    "labourUnitCost": 70,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.9",
+    "keynote": "D1000.9",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 4\" (100 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 320,
+    "labourUnitCost": 90,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.10",
+    "keynote": "D1000.10",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 5\" (125 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 550,
+    "labourUnitCost": 120,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1000.1.11",
+    "keynote": "D1000.11",
     "comment": "ท่อน้ำดี (CW) PVC - Class 13.5 - ขนาด 6\" (150 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 800,
+    "labourUnitCost": 150,
     "parentKeynote": "D1000.1",
     "category": "Sanitary",
     "level": 5,
@@ -22837,7 +23809,7 @@
   },
   {
     "keynote": "D1001",
-    "comment": "ท่อน้ำ PPR (สำหรับน้ำร้อน)",
+    "comment": "ท่อน้ำร้อน (HW)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22848,8 +23820,32 @@
     "lastUpdated": "2025-07-10"
   },
   {
+    "keynote": "D1001.1",
+    "comment": "ท่อน้ำ PPR (สำหรับน้ำร้อน) ขนาด 1/2\"",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 45,
+    "labourUnitCost": 40,
+    "parentKeynote": "D1001",
+    "category": "Sanitary",
+    "level": 4,
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1001.2",
+    "comment": "ท่อน้ำ PPR (สำหรับน้ำร้อน) ขนาด 3/4\"",
+    "unit": "เมตร",
+    "lossPercentage": 5,
+    "materialUnitCost": 65,
+    "labourUnitCost": 45,
+    "parentKeynote": "D1001.1",
+    "category": "Sanitary",
+    "level": 5,
+    "lastUpdated": "2025-07-10"
+  },
+  {
     "keynote": "D1002",
-    "comment": "ข้อต่อ (CW) PVC",
+    "comment": "ข้อต่อ (CW) PVC - Class 13.5",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
@@ -22861,47 +23857,11 @@
   },
   {
     "keynote": "D1002.1",
-    "comment": "ข้องอ 90° PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1000",
-    "category": "Sanitary",
-    "level": 4,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.1.1",
     "comment": "ข้องอ 90° PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.1.2",
-    "comment": "ข้องอ 90° PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.1.3",
-    "comment": "ข้องอ 90° PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 4,
+    "labourUnitCost": 10,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
     "level": 5,
@@ -22909,47 +23869,11 @@
   },
   {
     "keynote": "D1002.2",
-    "comment": "ข้องอ 45° PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.2.1",
-    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.2.2",
-    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.2.3",
-    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "comment": "ข้องอ 90° PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 6,
+    "labourUnitCost": 12,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
     "level": 5,
@@ -22957,47 +23881,11 @@
   },
   {
     "keynote": "D1002.3",
-    "comment": "สามทาง PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.3.1",
-    "comment": "สามทาง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.3.2",
-    "comment": "สามทาง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.3.3",
-    "comment": "สามทาง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "comment": "ข้องอ 90° PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 10,
+    "labourUnitCost": 15,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
     "level": 5,
@@ -23005,78 +23893,126 @@
   },
   {
     "keynote": "D1002.4",
-    "comment": "ข้อต่อตรง PVC - Class 13.5",
+    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.4.1",
-    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.4.2",
-    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.4.3",
-    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "D1002.5",
-    "comment": "ข้องอ 90° เกลียวใน PVC  - Class 13.5",
+    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.5.1",
+    "keynote": "D1002.6",
+    "comment": "ข้องอ 45° PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
+    "unit": "",
+    "lossPercentage": "",
+    "materialUnitCost": "",
+    "labourUnitCost": "",
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.7",
+    "comment": "สามทาง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 5,
+    "labourUnitCost": 12,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.8",
+    "comment": "สามทาง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 8,
+    "labourUnitCost": 15,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.9",
+    "comment": "สามทาง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 15,
+    "labourUnitCost": 18,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.10",
+    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 3,
+    "labourUnitCost": 10,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.11",
+    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 5,
+    "labourUnitCost": 12,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.12",
+    "comment": "ข้อต่อตรง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
+    "unit": "ตัว",
+    "lossPercentage": 3,
+    "materialUnitCost": 8,
+    "labourUnitCost": 15,
+    "parentKeynote": "D1002.1",
+    "category": "Sanitary",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1002.13",
     "comment": "ข้องอ 90° เกลียวใน PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "ตัว",
+    "lossPercentage": 0.03,
+    "materialUnitCost": 35,
+    "labourUnitCost": 20,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.5.2",
+    "keynote": "D1002.14",
     "comment": "ข้องอ 90° เกลียวใน PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23084,11 +24020,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.5.3",
+    "keynote": "D1002.15",
     "comment": "ข้องอ 90° เกลียวใน PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23096,23 +24032,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.6",
-    "comment": "ข้องอ 90° เกลียวในทองเหลือง PVC  - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.6.1",
+    "keynote": "D1002.16",
     "comment": "ข้องอ 90° เกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23120,11 +24044,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.6.2",
+    "keynote": "D1002.17",
     "comment": "ข้องอ 90° เกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23132,11 +24056,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.6.3",
+    "keynote": "D1002.18",
     "comment": "ข้องอ 90° เกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23144,35 +24068,23 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.7",
-    "comment": "สามทางเกลียวใน PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.7.1",
+    "keynote": "D1002.19",
     "comment": "สามทางเกลียวใน PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "ตัว",
+    "lossPercentage": 0.03,
+    "materialUnitCost": 45,
+    "labourUnitCost": 25,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.7.2",
+    "keynote": "D1002.20",
     "comment": "สามทางเกลียวใน PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23180,11 +24092,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.7.3",
+    "keynote": "D1002.21",
     "comment": "สามทางเกลียวใน PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23192,23 +24104,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.8",
-    "comment": "สามทางเกลียวในทองเหลือง PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.8.1",
+    "keynote": "D1002.22",
     "comment": "สามทางเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23216,11 +24116,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.8.2",
+    "keynote": "D1002.23",
     "comment": "สามทางเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23228,11 +24128,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.8.3",
+    "keynote": "D1002.24",
     "comment": "สามทางเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23240,35 +24140,23 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.9",
-    "comment": "ข้อต่อตรงเกลียวใน PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.9.1",
+    "keynote": "D1002.25",
     "comment": "ข้อต่อตรงเกลียวใน PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "ตัว",
+    "lossPercentage": 0.03,
+    "materialUnitCost": 30,
+    "labourUnitCost": 20,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.9.2",
+    "keynote": "D1002.26",
     "comment": "ข้อต่อตรงเกลียวใน PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23276,11 +24164,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.9.3",
+    "keynote": "D1002.27",
     "comment": "ข้อต่อตรงเกลียวใน PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23288,23 +24176,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.10",
-    "comment": "ข้อต่อตรงเกลียวในทองเหลือง PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.10.1",
+    "keynote": "D1002.28",
     "comment": "ข้อต่อตรงเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23312,11 +24188,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.10.2",
+    "keynote": "D1002.29",
     "comment": "ข้อต่อตรงเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23324,11 +24200,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.10.3",
+    "keynote": "D1002.30",
     "comment": "ข้อต่อตรงเกลียวในทองเหลือง PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23336,35 +24212,23 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.11",
-    "comment": "ข้อต่อตรงลด PVC - Class 13.5",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
-    "parentKeynote": "D1002.1",
-    "category": "Sanitary",
-    "level": 5,
-    "lastUpdated": "2025-07-10"
-  },
-  {
-    "keynote": "D1002.11.1",
+    "keynote": "D1002.31",
     "comment": "ข้อต่อตรงลด PVC - Class 13.5 - ขนาด 1/2\" (18 มม.)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "unit": "ตัว",
+    "lossPercentage": 0.03,
+    "materialUnitCost": 8,
+    "labourUnitCost": 15,
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.11.2",
+    "keynote": "D1002.32",
     "comment": "ข้อต่อตรงลด PVC - Class 13.5 - ขนาด 3/4\" (20 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23372,11 +24236,11 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1002.11.3",
+    "keynote": "D1002.33",
     "comment": "ข้อต่อตรงลด PVC - Class 13.5 - ขนาด 1\" (25 มม.)",
     "unit": "",
     "lossPercentage": "",
@@ -23384,67 +24248,127 @@
     "labourUnitCost": "",
     "parentKeynote": "D1002.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
     "keynote": "D1003",
-    "comment": "วาล์วเปิด–ปิดน้ำ (Ball Valve, Gate Valve)",
+    "comment": "วาล์วและอุปกรณ์ท่อน้ำดี",
     "unit": "",
     "lossPercentage": "",
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "D1",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1004",
-    "comment": "ก๊อกซักล้าง / หัวจ่ายน้ำ",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "keynote": "D1003.1",
+    "comment": "บอลวาล์ว PVC (Ball Valve) 1/2\"",
+    "unit": "ตัว",
+    "lossPercentage": "-",
+    "materialUnitCost": 45,
+    "labourUnitCost": 50,
     "parentKeynote": "D1",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1005",
-    "comment": "ท่อประปาภายนอกอาคาร (HDPE)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "keynote": "D1003.2",
+    "comment": "บอลวาล์ว PVC (Ball Valve) 1\"",
+    "unit": "ตัว",
+    "lossPercentage": "-",
+    "materialUnitCost": 90,
+    "labourUnitCost": 80,
     "parentKeynote": "D1",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1006",
-    "comment": "ชุดกรองน้ำ (Water Filter Set)",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "keynote": "D1003.3",
+    "comment": "ประตูน้ำ (Gate Valve) ทองเหลือง 1/2\"",
+    "unit": "ตัว",
+    "lossPercentage": "-",
+    "materialUnitCost": 250,
+    "labourUnitCost": 120,
     "parentKeynote": "D1",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
-    "keynote": "D1007",
-    "comment": "มิเตอร์น้ำประปา",
-    "unit": "",
-    "lossPercentage": "",
-    "materialUnitCost": "",
-    "labourUnitCost": "",
+    "keynote": "D1003.4",
+    "comment": "ก๊อกน้ำสนาม 1/2\"",
+    "unit": "ตัว",
+    "lossPercentage": "-",
+    "materialUnitCost": 120,
+    "labourUnitCost": 80,
     "parentKeynote": "D1",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1003.5",
+    "comment": "ท่อประปาภายนอกอาคาร (HDPE) PE80 20มม.",
+    "unit": "เมตร",
+    "lossPercentage": 0.05,
+    "materialUnitCost": 20,
+    "labourUnitCost": 30,
+    "parentKeynote": "",
+    "category": "",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1003.6",
+    "comment": "ชุดกรองน้ำใช้ (Water Filter Set)",
+    "unit": "ชุด",
+    "lossPercentage": "-",
+    "materialUnitCost": 2500,
+    "labourUnitCost": 800,
+    "parentKeynote": "",
+    "category": "",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1003.7",
+    "comment": "มิเตอร์น้ำประปา 1/2\"",
+    "unit": "ชุด",
+    "lossPercentage": "-",
+    "materialUnitCost": 800,
+    "labourUnitCost": 500,
+    "parentKeynote": "",
+    "category": "",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1003.8",
+    "comment": "กาวทาท่อ PVC",
+    "unit": "กระป๋อง",
+    "lossPercentage": "-",
+    "materialUnitCost": 50,
+    "labourUnitCost": "-",
+    "parentKeynote": "",
+    "category": "",
+    "level": "",
+    "lastUpdated": "2025-07-10"
+  },
+  {
+    "keynote": "D1003.9",
+    "comment": "เทปพันเกลียว",
+    "unit": "ม้วน",
+    "lossPercentage": "-",
+    "materialUnitCost": 10,
+    "labourUnitCost": "-",
+    "parentKeynote": "",
+    "category": "",
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23456,7 +24380,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D",
     "category": "Sanitary",
-    "level": 2,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23468,7 +24392,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23480,7 +24404,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23492,7 +24416,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23504,7 +24428,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23516,7 +24440,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23528,7 +24452,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23540,7 +24464,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23552,7 +24476,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23564,7 +24488,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23576,7 +24500,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23588,7 +24512,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23600,7 +24524,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2000",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23612,7 +24536,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23624,7 +24548,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23636,7 +24560,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23648,7 +24572,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23660,7 +24584,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23672,7 +24596,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23684,7 +24608,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23696,7 +24620,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23708,7 +24632,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23720,7 +24644,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23732,7 +24656,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23744,7 +24668,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23756,7 +24680,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2001",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23768,7 +24692,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23780,7 +24704,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23792,7 +24716,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23804,7 +24728,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23816,7 +24740,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23828,7 +24752,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23840,7 +24764,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23852,7 +24776,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23864,7 +24788,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23876,7 +24800,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23888,7 +24812,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23900,7 +24824,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23912,7 +24836,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2002",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23924,7 +24848,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23936,7 +24860,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23948,7 +24872,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23960,7 +24884,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23972,7 +24896,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23984,7 +24908,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.1",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -23996,7 +24920,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24008,7 +24932,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.2",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24020,7 +24944,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.2",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24032,7 +24956,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24044,7 +24968,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.3",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24056,7 +24980,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.3",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24068,7 +24992,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24080,7 +25004,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.4",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24092,7 +25016,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.4",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24104,7 +25028,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24116,7 +25040,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.5",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24128,7 +25052,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.5",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24140,7 +25064,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24152,7 +25076,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.6",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24164,7 +25088,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.6",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24176,7 +25100,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24188,7 +25112,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.7",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24200,7 +25124,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.7",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24212,7 +25136,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24224,7 +25148,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.8",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24236,7 +25160,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.8",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24248,7 +25172,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24260,7 +25184,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.9",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24272,7 +25196,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.9",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24284,7 +25208,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24296,7 +25220,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.10",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24308,7 +25232,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.10",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24320,7 +25244,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24332,7 +25256,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.11",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24344,7 +25268,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.11",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24356,7 +25280,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005",
     "category": "Sanitary",
-    "level": 4,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24368,7 +25292,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.12",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24380,7 +25304,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2005.12",
     "category": "Sanitary",
-    "level": 5,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24392,7 +25316,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24404,7 +25328,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D2",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24416,7 +25340,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D",
     "category": "Sanitary",
-    "level": 2,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24428,7 +25352,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24440,7 +25364,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24452,7 +25376,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24464,7 +25388,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24476,7 +25400,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24488,7 +25412,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24500,7 +25424,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24512,7 +25436,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24524,7 +25448,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24536,7 +25460,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24548,7 +25472,7 @@
     "labourUnitCost": "",
     "parentKeynote": "D3",
     "category": "Sanitary",
-    "level": 3,
+    "level": "",
     "lastUpdated": "2025-07-10"
   },
   {
@@ -24571,7 +25495,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 2,
     "lastUpdated": "2025-07-10"
   },
@@ -24583,7 +25507,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24595,7 +25519,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24607,7 +25531,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24619,7 +25543,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24631,7 +25555,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24643,7 +25567,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24655,7 +25579,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24667,7 +25591,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24679,7 +25603,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24691,7 +25615,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E1",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24703,7 +25627,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 2,
     "lastUpdated": "2025-07-10"
   },
@@ -24715,7 +25639,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24727,7 +25651,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24739,7 +25663,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24751,7 +25675,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24763,7 +25687,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24775,7 +25699,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24787,7 +25711,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24799,7 +25723,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24811,7 +25735,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "E2",
-    "category": "q",
+    "category": "Air Conditioning",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24835,7 +25759,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F",
-    "category": "",
+    "category": "General",
     "level": 2,
     "lastUpdated": "2025-07-10"
   },
@@ -24847,7 +25771,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24859,7 +25783,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24871,7 +25795,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24883,7 +25807,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24895,7 +25819,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24907,7 +25831,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24919,7 +25843,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24931,7 +25855,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24943,7 +25867,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F1",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24955,7 +25879,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F",
-    "category": "",
+    "category": "General",
     "level": 2,
     "lastUpdated": "2025-07-10"
   },
@@ -24967,7 +25891,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24979,7 +25903,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -24991,7 +25915,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -25003,7 +25927,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -25015,7 +25939,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   },
@@ -25027,7 +25951,7 @@
     "materialUnitCost": "",
     "labourUnitCost": "",
     "parentKeynote": "F2",
-    "category": "",
+    "category": "General",
     "level": 3,
     "lastUpdated": "2025-07-10"
   }
