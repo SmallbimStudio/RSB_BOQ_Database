@@ -27,6 +27,7 @@ C1,งานไฟฟ้ากำลัง (Power System),2,C
 C2,งานไฟฟ้าแสงสว่าง (Lighting System),2,C
 C3,งานระบบสื่อสาร (Communication System),2,C
 D1,งานท่อน้ำดี (Cold / Hot Water Supply),2,D
+D2,งานท่อน้ำเสีย (Drainage / Waste / Vent),2,D
 E1,เครื่องปรับอากาศ (Air Conditioning System),2,E
 E2,เครื่องระบายอากาศ (Ventilation System),2,E
 F1,เตรียมงานและอำนวยการ (Site Preparation & Management),2,F
