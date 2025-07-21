@@ -22621,7 +22621,7 @@
   },
   {
     "Keynote": "C1003.2.1",
-    "Comment": "Junction BOX PVC 4\"x4\"",
+    "Comment": "Junction BOX PVC 2\"x4\"",
     "Unit": "ชุด",
     "RSB_LossPercentage": 0,
     "RSB_MaterialUnitCost": 25,
@@ -22633,6 +22633,18 @@
   },
   {
     "Keynote": "C1003.2.2",
+    "Comment": "Junction BOX PVC 4\"x4\"",
+    "Unit": "ชุด",
+    "RSB_LossPercentage": 0,
+    "RSB_MaterialUnitCost": 25,
+    "RSB_LabourUnitCost": 50,
+    "ParentKeynote": "C1003.2",
+    "Category": "Electrical",
+    "Level": 5,
+    "LastUpdated": "2025-07-21"
+  },
+  {
+    "Keynote": "C1003.2.3",
     "Comment": "Junction BOX โลหะ 4\"x4\"",
     "Unit": "ชุด",
     "RSB_LossPercentage": 0,
@@ -22644,7 +22656,7 @@
     "LastUpdated": "2025-07-21"
   },
   {
-    "Keynote": "C1003.2.3",
+    "Keynote": "C1003.2.4",
     "Comment": "กล่องพักสายกลม (Round Box)",
     "Unit": "ชุด",
     "RSB_LossPercentage": 0,
@@ -22656,7 +22668,7 @@
     "LastUpdated": "2025-07-21"
   },
   {
-    "Keynote": "C1003.2.4",
+    "Keynote": "C1003.2.5",
     "Comment": "กล่องสวิตช์/ปลั๊ก 2\"x4\"",
     "Unit": "ชิ้น",
     "RSB_LossPercentage": 0,
