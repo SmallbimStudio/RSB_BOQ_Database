@@ -20413,7 +20413,7 @@
   },
   {
     "Keynote": "B8000",
-    "Comment": "หลังคากระเบื้องคอนกรีต: SCG รุ่น CPAC Monier",
+    "Comment": "หลังคากระเบื้องคอนกรีต (Concrete Roof Tiles)",
     "Unit": "",
     "RSB_LossPercentage": null,
     "RSB_MaterialUnitCost": null,
@@ -20425,7 +20425,7 @@
   },
   {
     "Keynote": "B8000.1",
-    "Comment": "แผ่นกระเบื้องหลังคา CPAC Monier",
+    "Comment": "แผ่นหลังคากระเบื้องลูกฟูก",
     "Unit": "ตร.ม.",
     "RSB_LossPercentage": 5,
     "RSB_MaterialUnitCost": 220,
@@ -20437,7 +20437,7 @@
   },
   {
     "Keynote": "B8000.2",
-    "Comment": "",
+    "Comment": "แผ่นหลังคากระเบื้องลอนคู่",
     "Unit": "ตร.ม.",
     "RSB_LossPercentage": 5,
     "RSB_MaterialUnitCost": 220,
@@ -20449,7 +20449,7 @@
   },
   {
     "Keynote": "B8000.3",
-    "Comment": "",
+    "Comment": "แผ่นหลังคากระเบื้องลอนเล็ก",
     "Unit": "ตร.ม.",
     "RSB_LossPercentage": 5,
     "RSB_MaterialUnitCost": 220,
